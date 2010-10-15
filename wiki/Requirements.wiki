@@ -1,0 +1,16 @@
+#What RoboLinux is going to do
+
+= Introduction =
+
+The core idea of Robolinux, is to Have an OS that is designed for the single task of controlling robots. to do this, we must put down what this means, what is RoboLinux Required to do?
+
+
+= Requirements =
+
+* RoboLinux shall be no larger than 100MB
+* RoboLinux shall have a Simple UI similer to the Lego NXT's UI
+* RoboLinux shall be programmable from a seperate computer
+* code written on a seperate computer for Robolinux shall be easy to Upload to the robot
+* RoboLinux shall be able to hold multiple "Programs" that can be executed by the UI
+
+there are more to come soon, if anyone else thinks of one, send me a note, or put it in the issues list
